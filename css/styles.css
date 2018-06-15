@@ -11,10 +11,14 @@
 .upcoming {
   width: 30%;
   float: right;
+  background-color: silver;
+
 }
+
 
 ul {
   list-style: none;
+  padding: 0px;
 }
 .banner img {
   width: 100%;
@@ -29,8 +33,9 @@ nav li {
   padding: 5px;
 }
 .images img {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
+  padding: 25px;
 }
 .images h2 {
   text-align: center;
