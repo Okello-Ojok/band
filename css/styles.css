@@ -1,0 +1,30 @@
+
+
+.about {
+  width: 70%;
+  float: left;
+}
+.upcoming h2{
+  text-align: center;
+}
+
+.upcoming {
+  width: 30%;
+  float: right;
+}
+
+ul {
+  list-style: none;
+}
+.banner img {
+  width: 100%;
+}
+
+nav{
+  background-color: #ddd;
+  padding: 8px;
+}
+nav li {
+  display: inline;
+  padding: 5px;
+}
